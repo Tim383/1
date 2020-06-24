@@ -24,7 +24,7 @@ export const environment = {
      * get after registering your web application. Additionally you need to append 'EvtMgmt/api/v2.0/'.
      * Note: The URL **must** have a trailing slash.
      **/
-    apiEndpoint: 'https://HOST/EvtMgmt/api/v2.0/',
+    apiEndpoint: 'https://tim383.github.io/EvtMgmt/api/v2.0/',
 
     /**
      * Points to the URL where the localization files are stored (by default they are stored in the root directory).
@@ -51,7 +51,7 @@ export const environment = {
      * You can retrieve the application token by registering a new web application in CRM.
      * Note: This token is not required if you're using the deprecated Event Management Portal API.
      */
-    emApplicationtoken: '',
+    emApplicationtoken: 'omLU40OPuhkWn044S5771_HfqGZz7bTY2mpMMW1jgpnmwZpQ-RwvQAVOCnEvvcGisPc6Uvko60PVcXk2EB5NBwdzeujgfvlG8HonnzwlhLMlyO8m2dYPQgHQBG6USvF2SttVju6CNlX1mLUgG0vOuYrTlonNyn3V6cUkJ2toPCg7XSDh2YaBFuwF83oMRdIIjDm2ku65e5AZG2VvlDcC-Fe945A8ayNIFCytSUdykAU0t-ZibC_zPzcIGr7Fu-Zd',
 
     /**
      * This flag specifies whether user authentication is supported (meaning user can to register/sign-in).
